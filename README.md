@@ -12,16 +12,16 @@
 ---
 
 ## Repository structure
-.
+.</br>
 ├─ data/ </br>
-│  ├─ Alzheimer/
-│  ├─ Dementia/
-│  └─ Parkinsons/
-├─ notebooks/
-│  ├─ dementia.ipynb
-│  ├─ alzheimer.ipynb
-│  └─ parkinsons.ipynb
-├─ README.md
+│  ├─ Alzheimer/</br>
+│  ├─ Dementia/</br>
+│  └─ Parkinsons/</br>
+├─ notebooks/</br>
+│  ├─ dementia.ipynb</br>
+│  ├─ alzheimer.ipynb</br>
+│  └─ parkinsons.ipynb</br>
+├─ README.md</br>
 └─ ML_report_en.docx    # full report
 
 

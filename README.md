@@ -13,7 +13,7 @@
 
 ## Repository structure
 .
-├─ data/
+├─ data/ </br>
 │  ├─ Alzheimer/
 │  ├─ Dementia/
 │  └─ Parkinsons/
@@ -61,7 +61,7 @@
 ## Quick start
 
 ### 1) Environment
-```bash
+bash
 # Python >= 3.10 recommended
 python -m venv .venv
 # Windows:
